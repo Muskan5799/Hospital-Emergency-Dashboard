@@ -23,5 +23,8 @@ Most Common Referral: General Practice (96 patients)
 Age Group with Most ER Visits: 0-9 years (77 patients)
 
 ## Dashboard Preview
-![image](https://github.com/user-attachments/assets/4d526f2e-c93b-4796-a66f-91455b8135b3)
+![image](https://github.com/user-attachments/assets/4d526f2e-c93b-4796-a66f-91455b8135b3) 
 
+## Tools & Techniques Used
+
+ Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
