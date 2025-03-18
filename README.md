@@ -1,10 +1,10 @@
-Hospital Emergency Room Dashboard 🚑📊
+### Hospital Emergency Room Dashboard 🚑📊
 
-📌 Project Overview
+## Project Overview 📌
 
 This Excel-based Hospital Emergency Room Dashboard provides key insights into patient flow, wait times, admission rates, and department referrals. The goal is to analyze ER performance and identify trends to improve efficiency and patient care.
 
-📊 Key Insights
+## Key Insights📊
 
 Total Patients: 471
 
