@@ -15,7 +15,7 @@ The goal is to analyze **ER performance and identify trends** to improve efficie
 - **Age Group with Most ER Visits:** 0-9 years (77 patients)  
 
 ## 📸 Dashboard Preview  
-![image](https://github.com/user-attachments/assets/7578e411-48e1-4210-bec1-cda24fbd72cd)
+![image](https://github.com/user-attachments/assets/4ea52d2e-58fc-46f4-ba6a-34690e96f171)
 
 ## 🎯 Project Motive  
 The **Hospital Emergency Room Dashboard** aims to analyze ER performance, reduce wait times, and improve patient care using **data-driven insights**.  
