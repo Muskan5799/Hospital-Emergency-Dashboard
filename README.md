@@ -1,4 +1,5 @@
 # 🚑 Hospital Emergency Room Dashboard 📊  
+Excel dashboard for hospital ER operations, visualizing monthly patient metrics, departmental trends, and service performance to support data-driven decisions.
 ## 🏥 Introduction
 
 Managing an emergency room means balancing urgency, efficiency, and patient care — all under pressure. This Excel dashboard was built to address that challenge by providing a **monthly, data-driven overview** of ER operations.
