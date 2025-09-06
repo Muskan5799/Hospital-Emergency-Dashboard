@@ -33,6 +33,16 @@ This dashboard reveals several important patterns and performance indicators fro
 
 These findings help pinpoint operational strengths and areas needing attention, guiding hospital teams toward more efficient and patient-centered care.
 
-## 📸 Dashboard Preview
+## 🖼 Dashboard Snapshot
+
+Below is a visual preview of the Excel dashboard, showcasing key emergency room metrics such as:
+
+- 📊 Department-wise patient distribution
+- 📅 Monthly patient trends (Jan–Aug)
+- ⏱️ Wait time and satisfaction score analysis
+- 👥 Gender and admission breakdown
+- 🏥 Attendance status (on-time vs delayed)
+
+This snapshot offers a quick glance at the dashboard’s layout and visual clarity, designed for **fast interpretation and strategic decision-making**.
 ![image](https://github.com/user-attachments/assets/4ea52d2e-58fc-46f4-ba6a-34690e96f171)
 
